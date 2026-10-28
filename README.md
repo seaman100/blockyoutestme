@@ -1,10 +1,10 @@
 # Block You Test Me
 
-A free friendship quiz you can send as a link — no signup for the person who answers.
+A free friendship quiz you can send as a link.
 
 ## Links
 
-- [Block You Test Me](https://blockyoutestme.com/)
+- [friendship quiz](https://blockyoutestme.com/)
 
 - [Main site](https://blockyoutestme.com/)
 
